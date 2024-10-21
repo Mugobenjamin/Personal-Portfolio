@@ -1,0 +1,59 @@
+**README for Personal Portfolio Website**
+
+---
+
+# Personal Portfolio Website
+
+Welcome to my personal portfolio website! This project is built using **HTML5**, **CSS3**, and **Bootstrap** to showcase my skills, projects, and background in web development.
+
+---
+
+## Features
+
+- **Responsive Design**: Utilizes Bootstrap's grid system for a fully responsive layout across different devices (desktop, tablet, and mobile).
+- **Clean and Minimal UI**: Designed to be simple, clean, and easy to navigate for users.
+- **Project Showcase**: Highlights key projects with descriptions and live demos or GitHub links.
+- **Contact Form**: A functional contact form for users to reach out via email.
+- **Smooth Scrolling and Animations**: Leveraging Bootstrap components and custom CSS for smooth scrolling.
+
+---
+
+## Technologies Used
+
+- **HTML5**: For structuring the content and providing semantic tags for accessibility.
+- **CSS3**: Custom styles to enhance the look and feel, with focus on responsiveness.
+- **Bootstrap**: For the layout, grid system, and responsive design.
+
+
+---
+
+## Sections
+
+1. **Header**: Includes a navigation bar with smooth scrolling links to each section.
+2. **About Me**: A brief introduction about who I am and my background.
+3. **Skills**: Showcases my technical skills in various programming languages and technologies.
+4. **Contact**: A contact form and social media links for easy communication.
+
+---
+
+## Installation and Setup
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mugobenjamin/Personal-Portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Personal-Portfolio
+   ```
+3. Open the `index.html` file in a web browser.
+
+---
+
+## Customization
+
+- To update the content (like project details or contact information), edit the `index.html` file and modify the relevant sections.
+- Modify the styling in the `style.css` file for any custom styles.
+- Use the Bootstrap documentation to add or modify components as needed: [Bootstrap Docs](https://getbootstrap.com/docs/)
